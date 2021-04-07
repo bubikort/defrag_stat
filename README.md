@@ -8,4 +8,4 @@ After run, the collected .csv will be in, the destination folder, all you have t
 
 (On Windows 7 clients by desing not allowed the remote powershell, so you have to enable it, with a GPO. For example: https://www.techrepublic.com/article/how-to-enable-powershell-remoting-via-group-policy/)![Screenshot 2021-04-07 at 10 51 59]
 
-(https://user-images.githubusercontent.com/55246449/113838678-49404b80-978f-11eb-8245-2308951cff0e.png)
+[[/https://user-images.githubusercontent.com/55246449/113838678-49404b80-978f-11eb-8245-2308951cff0e.png|Preview]]
